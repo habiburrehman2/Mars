@@ -1,2 +1,2 @@
 # Mars repository
-this is remote repository on github
+this is remote repository
